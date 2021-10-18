@@ -1,0 +1,7 @@
+# VSC files
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
